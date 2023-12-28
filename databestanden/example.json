@@ -1,0 +1,23 @@
+{
+    "studenten": [
+      {
+        "naam": "Jan Jansen",
+        "leeftijd": 20,
+        "studierichting": "Informatica",
+        "scores": 85
+      },
+      {
+        "naam": "Eva de Vries",
+        "leeftijd": 22,
+        "studierichting": "Elektrotechniek",
+        "scores": 92
+      },
+      {
+        "naam": "Piet Petersen",
+        "leeftijd": 21,
+        "studierichting": "Werktuigbouwkunde",
+        "scores": 78
+      }
+    ]
+  }
+  
